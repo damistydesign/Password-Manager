@@ -79,10 +79,10 @@ python password_manager.py stats
 ```python password_manager.py init```
 
 ### Añadir una contraseña
-``python password_manager.py add -s "Gmail" -u "usuario@gmail.com"``
+```python password_manager.py add -s "Gmail" -u "usuario@gmail.com"```
 
 ### Ver todas las contraseñas (sin mostrar)
-``python password_manager.py list```
+```python password_manager.py list```
 
 ### Obtener una contraseña específica
 ```python password_manager.py get -s "Gmail" --show``

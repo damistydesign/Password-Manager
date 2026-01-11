@@ -85,7 +85,7 @@ python password_manager.py stats
 ```python password_manager.py list```
 
 ### Obtener una contraseña específica
-```python password_manager.py get -s "Gmail" --show``
+```python password_manager.py get -s "Gmail" --show```
 
 ### Buscar contraseñas
 ```python password_manager.py search -q "banco"```
